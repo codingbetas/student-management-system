@@ -37,6 +37,7 @@ Student-Management-System/
    cd student-management-system
    ```
    
+   
 2 . Run the main program
 python app.py
 
