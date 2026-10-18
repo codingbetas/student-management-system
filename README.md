@@ -35,6 +35,7 @@ Student-Management-System/
    ```bash
    git clone https://github.com/yourusername/student-management-system.git
    cd student-management-system
+   ```
    
 2 . Run the main program
 python app.py
